@@ -1,6 +1,7 @@
 .container {
   border: 10px solid #000000;
   display: flex;
+  margin-top: 10px;
 }
 .container2 {
   border: 10px solid #000000;

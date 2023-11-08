@@ -7,7 +7,7 @@ html,
 body {
   box-sizing: border-box;
   height: 100%;
-  padding: 5px;
+  padding: 10px;
   background-color: #979292;
 }
 
@@ -33,15 +33,15 @@ body {
 
 .fondo1 {
   background-color: #d16458;
-  margin: 5px;
+  /* margin: 5px; */
 }
 .fondo2 {
   background-color: #d1c958;
-  margin: 5px;
+  /* margin: 5px; */
 }
 .fondo3 {
   background-color: #9b8939;
-  margin: 5px;
+  /* margin: 5px; */
 }
 
 .container2 > div {
